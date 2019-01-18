@@ -1,3 +1,2 @@
-Test here:
 
-esi.free.bg/3D
+Use the **arrows**, **[W]**, **[S]**, **[Space]** and **[Enter]**
