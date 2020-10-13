@@ -1,5 +1,5 @@
 
-#HOW TO USE
+# HOW TO USE
 
 Use the **arrows**, **[W]**, **[S]**, **[R]**, **[Space]** and **[Enter]**
 
