@@ -1,4 +1,6 @@
 
+#HOW TO USE
+
 Use the **arrows**, **[W]**, **[S]**, **[R]**, **[Space]** and **[Enter]**
 
 **[Left arrow]** - move left
